@@ -3,8 +3,8 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 
 ## Github Detailed Workshop
 - **Github:** [1 hour_30 minutes recording_video](https://www.facebook.com/iCodeguru/videos/737314778609346)
-- 
+  
 ## LeetCode
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
-- 
+  
 <!--  - **Lecture 2:** [1_hour_recording_video](https://fb.watch/qC1TxH05LO/)  -->
