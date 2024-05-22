@@ -6,5 +6,6 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
   
 ## LeetCode
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
+- **Lecture 2:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/300146373164685)
   
 <!--  - **Lecture 2:** [1_hour_recording_video](https://fb.watch/qC1TxH05LO/)  -->
