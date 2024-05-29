@@ -10,5 +10,6 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **Lecture 3:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/2185179978500939)
 - **Lecture 4:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/396703180034024)
 - **Lecture 5:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/995867158561148)
+- **Lecture 6:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/841148441194489)
   
 <!--  - **Lecture 2:** [1_hour_recording_video](https://fb.watch/qC1TxH05LO/)  -->
