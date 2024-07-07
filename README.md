@@ -10,7 +10,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 ## 3. Hands-On GitHub: Learn the Essentials 
 - **Workshop:** [1 hour 20 minutes recording_video](https://web.facebook.com/iCodeguru/videos/797777002113266)
   
-## LeetCode
+## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
 - **Lecture 2:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/300146373164685)
 - **Lecture 3:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/2185179978500939)
