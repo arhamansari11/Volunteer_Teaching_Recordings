@@ -10,8 +10,8 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 ## 3. Hands-On GitHub: Learn the Essentials.
 - **Workshop:** [1 hour 20 minutes recording_video](https://web.facebook.com/iCodeguru/videos/797777002113266)
 
-## 4. React Class
-- **Class:**  [1 hour recording video](https://www.facebook.com/iCodeguru/videos/8274595349266404)
+## 4. React Introduction.
+- **Lecture:**  [1 hour recording video](https://www.facebook.com/iCodeguru/videos/8274595349266404)
 
 ## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
