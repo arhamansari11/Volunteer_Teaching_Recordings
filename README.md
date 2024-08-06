@@ -12,7 +12,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 
 ## 4. React Introduction.
 - **Lecture:**  [1 hour recording video](https://www.facebook.com/iCodeguru/videos/8274595349266404)
-- 
+  
 ## 5. Fundamental Data Structures of Python.
 - **Lecture:**  [1 hour recording video](https://www.youtube.com/live/MaJyeQBLj7A)
 
