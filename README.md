@@ -15,6 +15,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
   
 ## 5. Fundamental Data Structures of Python.
 - **Lecture:**  [1 hour recording video](https://www.youtube.com/live/MaJyeQBLj7A)
+  
+## 6. Webinar on Meta Hacker Cup.
+- **Webinar:**  [1 hour recording video](https://www.youtube.com/watch?v=XjZlSS-HtAs)
 
 ## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
