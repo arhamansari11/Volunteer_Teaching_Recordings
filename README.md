@@ -18,6 +18,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
   
 ## 6. Webinar on Meta Hacker Cup.
 - **Webinar:**  [1 hour recording video](https://www.youtube.com/watch?v=XjZlSS-HtAs)
+  
+## 7. Webinar on Importance of LeetCode.
+- **Webinar:**  [1 hour recording video](https://www.youtube.com/watch?v=7A7Ykb-h9fw)
 
 ## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
