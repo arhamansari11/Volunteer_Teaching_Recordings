@@ -26,7 +26,7 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 - **WorkShop:**  [1 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/398631263090868)
 
 ## 9. WorkShop on Fundamnentals of Machine Learning.
-- **WorkShop:** [2 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/1084182909482818).
+- **WorkShop:** [2 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/1084182909482818)
 
 ## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
