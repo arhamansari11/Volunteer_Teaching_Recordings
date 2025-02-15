@@ -27,6 +27,9 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 
 ## 9. WorkShop on Fundamnentals of Machine Learning.
 - **WorkShop:** [2 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/1084182909482818)
+  
+## 10. WorkShop on How to Build and Deploy Google Chrome Extension.
+- **WorkShop:** [1 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/597448616441832)
 
 ## LeetCode Lectures
 - **Lecture 1:** [1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/1258403118477811)
