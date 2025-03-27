@@ -12,38 +12,35 @@ Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode 
 ## 3. UC Berkely CALCIO Spring 2025.
 - **Webinar:** [40 minutes recording_video](https://www.youtube.com/watch?v=wW7KM960Nsc)
 
+## 4. Webinar on Importance of LeetCode.
+- **Webinar:**  [1 hour recording video](https://www.youtube.com/watch?v=7A7Ykb-h9fw)
+
 
 
 # WorkShops
 
 ## 1. Github Readme Detailed Workshop.
-- **Workshop:** [1 hour_30 minutes recording_video](https://www.facebook.com/iCodeguru/videos/737314778609346)
+- **WorkShop:** [1 hour_30 minutes recording_video](https://www.facebook.com/iCodeguru/videos/737314778609346)
 
 ## 2. Hackathons Tips and Tricks for Beginners Detailed Workshop.
-- **Workshop:** [1 hour recording_video](https://www.facebook.com/iCodeguru/videos/1528920457839628)
+- **WorkShop:** [1 hour recording_video](https://www.facebook.com/iCodeguru/videos/1528920457839628)
 
 ## 3. Hands-On GitHub: Learn the Essentials.
-- **Workshop:** [1 hour 20 minutes recording_video](https://web.facebook.com/iCodeguru/videos/797777002113266)
+- **WorkShop:** [1 hour 20 minutes recording_video](https://web.facebook.com/iCodeguru/videos/797777002113266)
 
 ## 4. React Introduction.
-- **Lecture:**  [1 hour recording video](https://www.facebook.com/iCodeguru/videos/8274595349266404)
+- **WorkShop**  [1 hour recording video](https://www.facebook.com/iCodeguru/videos/8274595349266404)
   
 ## 5. Fundamental Data Structures of Python.
-- **Lecture:**  [1 hour recording video](https://www.youtube.com/live/MaJyeQBLj7A)
+- **WorkShop**  [1 hour recording video](https://www.youtube.com/live/MaJyeQBLj7A)
   
-## 6. Webinar on Meta Hacker Cup.
-- **Webinar:**  [1 hour recording video](https://www.youtube.com/watch?v=XjZlSS-HtAs)
-  
-## 7. Webinar on Importance of LeetCode.
-- **Webinar:**  [1 hour recording video](https://www.youtube.com/watch?v=7A7Ykb-h9fw)
-  
-## 8. WorkShop on Recursion Basic to Advance.
+## 6. WorkShop on Recursion Basic to Advance.
 - **WorkShop:**  [1 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/398631263090868)
 
-## 9. WorkShop on Fundamentals of Machine Learning.
+## 7. WorkShop on Fundamentals of Machine Learning.
 - **WorkShop:** [2 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/1084182909482818)
   
-## 10. WorkShop on How to Build and Deploy Google Chrome Extension.
+## 8. WorkShop on How to Build and Deploy Google Chrome Extension.
 - **WorkShop:** [1 hour 30 minutes recording video](https://www.facebook.com/iCodeguru/videos/597448616441832)
 
 ## LeetCode Lectures
