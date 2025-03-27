@@ -1,6 +1,17 @@
 # Volunteer_Teaching_Recordings
 Sharing expertise on [iCodeGuru](https://icodeguru.weebly.com/) with a LeetCode focus, aiding in the technical growth of underprivileged students. This repository offers a collection of coding-related videos crafted with passion, dedicated to underprivileged students striving to excel in the world of technology.
 
+# Webinars 
+
+## 1. Webinar on Meta Hacker Cup.
+- **Webinar:** [50 minutes recording_video](https://www.youtube.com/watch?v=XjZlSS-HtAs)
+
+## 2. Webinar on Stanford Code in Place.
+- **Webinar:** [1 hour 5 minutes recording_video](https://www.youtube.com/watch?v=zY-SlVYHCfQ)
+
+## 3. UC Berkely CALCIO Spring 2025.
+- **Webinar:** [40 minutes recording_video](https://www.youtube.com/watch?v=wW7KM960Nsc)
+
 
 
 # WorkShops
